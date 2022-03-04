@@ -29,6 +29,7 @@ def listas():
     print(listaConElementos[-1][3])
     print(listaConElementos[0:3]) #Miuestra la posicion de la 0 hasta la 3 sin entrar la 3
     print(listaConElementos[1:6:2])
+    print(listaConElementos[0:6:2])
 
 def main():
     listas()
